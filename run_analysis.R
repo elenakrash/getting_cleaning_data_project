@@ -68,4 +68,4 @@ names(finalData_mean_std) <- gsub('Freq$',"Frequency",names(finalData_mean_std))
 #   each variable for each activity and each subject.
 
 tidyFinalData = ddply(finalData_mean_std, c("subjectid","activitytype"), numcolwise(mean))
-write.table(tidyFinalData, file = "tidyFinalData.txt")
+write.table(tidyFinalData, file = "tidyFinalData.txt",row.name=FALSE)
