@@ -164,15 +164,5 @@ Final names:
 [77] "frequencyBodyBodyAngularAccelerationMagnitude-mean"         
 [78] "frequencyBodyBodyAngularAccelerationMagnitude-std"          
 [79] "frequencyBodyBodyAngularAccelerationMagnitude-meanFrequency"
-Body Acceleration	TimeDomain.BodyAcceleration.XYZ	FrequencyDomain.BodyAcceleration.XYZ
-Gravity Acceleration	TimeDomain.GravityAcceleration.XYZ	
-Body Acceleration Jerk	TimeDomain.BodyAccelerationJerk.XYZ	FrequencyDomain.BodyAccelerationJerk.XYZ
-Body Angular Speed	TimeDomain.BodyAngularSpeed.XYZ	FrequencyDomain.BodyAngularSpeed.XYZ
-Body Angular Acceleration	TimeDomain.BodyAngularAcceleration.XYZ	
-Body Acceleration Magnitude	TimeDomain.BodyAccelerationMagnitude	FrequencyDomain.BodyAccelerationMagnitude
-Gravity Acceleration Magnitude	TimeDomain.GravityAccelerationMagnitude	
-Body Acceleration Jerk Magnitude	TimeDomain.BodyAccelerationJerkMagnitude	FrequencyDomain.BodyAccelerationJerkMagnitude
-Body Angular Speed Magnitude	TimeDomain.BodyAngularSpeedMagnitude	FrequencyDomain.BodyAngularSpeedMagnitude
-Body Angular Acceleration Magnitude	TimeDomain.BodyAngularAccelerationMagnitude	FrequencyDomain.BodyAngularAccelerationMagnitude
 
 The data set is written to the file tidyFinalData.txt.
