@@ -74,12 +74,12 @@ The tidy data set contains 10299 observations with 81 variables divided in:
 
 Transformations: 
 
-> f - > frequency
-> t - > time
-> Acc - > Acceleration
-> GyroJerk - > AngularAcceleration
-> Gyro - > AngularSpeed
-> Mag - > Magnitude
+* f - > frequency
+* t - > time
+* Acc - > Acceleration
+* GyroJerk - > AngularAcceleration
+* Gyro - > AngularSpeed
+* Mag - > Magnitude
 
 Final names: 
 
