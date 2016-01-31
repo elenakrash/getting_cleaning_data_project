@@ -16,7 +16,6 @@ force is assumed to have only low frequency components, therefore a filter with 
 a vector of features was obtained by calculating variables from the time and frequency domain.
 
 For each record it is provided:
-======================================
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
@@ -25,7 +24,6 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 
 The original dataset includes the following files:
-=========================================
 
 - 'features.txt': List of all features.
 
