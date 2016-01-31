@@ -15,7 +15,7 @@ body motion components, was separated using a Butterworth low-pass filter into b
 force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window,
 a vector of features was obtained by calculating variables from the time and frequency domain.
 
-For each record it is provided:
+*For each record it is provided*:
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
@@ -23,7 +23,7 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-The original dataset includes the following files:
+*The original dataset includes the following files*:
 
 - 'features.txt': List of all features.
 
@@ -74,12 +74,12 @@ The tidy data set contains 10299 observations with 81 variables divided in:
 
 Transformations: 
 
-f - > frequency
-t - > time
-Acc - > Acceleration
-GyroJerk - > AngularAcceleration
-Gyro - > AngularSpeed
-Mag - > Magnitude
+> f - > frequency
+> t - > time
+> Acc - > Acceleration
+> GyroJerk - > AngularAcceleration
+> Gyro - > AngularSpeed
+> Mag - > Magnitude
 
 Final names: 
 
